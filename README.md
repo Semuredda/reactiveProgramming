@@ -1,1 +1,1 @@
-# reactiveProgramming for Asychronous and non blocking data streams.
+# Reactive programming for Asychronous and non blocking data streams.
